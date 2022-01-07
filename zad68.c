@@ -7,7 +7,7 @@
 //Funkcija za izracunavanje baze stozca.
 float baza(int polumjer){
 	
-	//Baza stozca je krug pa racanumo po formuli za povrsinu kruga.
+	//Baza stozca je krug pa racunamo po formuli za povrsinu kruga.
 	float baza;
 	baza=PI*polumjer*polumjer;
 	return baza;
